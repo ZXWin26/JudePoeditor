@@ -2046,7 +2046,5 @@
   "unsuccessful": "Unsuccessful",
   "max_deposit_amount": "Max Deposit Amount:",
   "edit_your_information": "Edit your information >",
-  "test1": {
-    "\"judeTest\"": ""
-  }
+  "judeTest": "mytest",
 }
