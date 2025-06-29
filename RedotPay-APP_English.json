@@ -2045,5 +2045,8 @@
   "please_note_that_the_exchange_rate": "Please note that the exchange rate may fluctuate due to market changes.",
   "unsuccessful": "Unsuccessful",
   "max_deposit_amount": "Max Deposit Amount:",
-  "edit_your_information": "Edit your information >"
+  "edit_your_information": "Edit your information >",
+  "test1": {
+    "\"judeTest\"": ""
+  }
 }
