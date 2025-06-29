@@ -1,5 +1,5 @@
 {
-  "login": "Log in",
+  "login": "Log in test",
   "password": "Password",
   "countdown_seconds": "@seconds s",
   "reset_pw_alert": "For added security, withdrawal and internal transfer will be disabled and a $1000 transaction limit will be set for 24 hours.",
